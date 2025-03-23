@@ -1,3 +1,5 @@
+<h1 style="text-align: center; color: blue;">Jan Lukasiak</h1>
+
 - 👋 Hi, I’m @J4mik
 - 👀 I’m interested in website creation
 - 🌱 I’m currently learning html and css
